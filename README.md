@@ -3,5 +3,7 @@ Design, and implement a Stopwatch on the Basys3 FPGA board. You display millisec
 
 Inputs:
 reset: You should use BTND button to reset stopwatch.
+
 start/stop: We use SW5 switch to start and stop stopwatch.
+
 up/down: We use BTNC button to count up or down. 
